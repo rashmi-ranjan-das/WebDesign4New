@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src = "https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif" width="55%" height="40%">
 <br><br>
 
-[![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebDesign4New&count_private=true&theme=radical)](https://github.com/WebDesign4Newgithub-readme-stats)
+[![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebDesign4New&count_private=true&theme=radical&layout=compact)](https://github.com/WebDesign4Newgithub-readme-stats)
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=WebDesign4New)](https://github.com/WebDesign4New/github-readme-stats)
  
