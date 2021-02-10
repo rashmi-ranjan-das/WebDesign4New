@@ -1,4 +1,4 @@
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [Rashmi Ranjan Das](https://github.com/WebDesign4New)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
  
 <br>
 <img src = "https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif" width="55%" height="40%">
- 
+<br><br>
+
+[![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebDesign4New)](https://github.com/WebDesign4Newgithub-readme-stats)
  
  
