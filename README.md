@@ -1,6 +1,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [Rashmi Ranjan Das](https://github.com/WebDesign4New)
+![](https://komarev.com/ghpvc/?username=WebDesign4New)
 
 <!--
 **WebDesign4New/WebDesign4New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
