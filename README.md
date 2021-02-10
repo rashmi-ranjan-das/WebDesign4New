@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on Full Stack Web Development using Python-Django Framework. 😄😄😄😄😄😄
- 🌱 I’m currently learning Front-End Framework ReactJS to use it with Django Backend. 👲👲👲
- 🌱 I'm also interested in learning Keevy Framework of Python to develop Mobile Apps.
- 👯 I’m looking to collaborate on projects related to Web Development using Django and projects related to Python.📷📷📞📞📞
+ 🔭 I’m currently working on Full Stack Web Development using Python-Django Framework. 😄😄😄😄😄😄<br>
+ 🌱 I’m currently learning Front-End Framework ReactJS to use it with Django Backend. 👲👲👲<br>
+ 🌱 I'm also interested in learning Keevy Framework of Python to develop Mobile Apps.<br>
+ 👯 I’m looking to collaborate on projects related to Web Development using Django and projects related to Python.📷📷📞📞📞<br>
  
  <img src="https://lh6.googleusercontent.com/rU8dZ0x67y63AeujFhM79UG_I3ZagEqTmDffagrUVuBI5eXPHtW2Z7zP1KU1MLKtl0wU5eNS_QHU-9v3GUJgxlKYeAR1yKADY8xCj7xMrpL8z9Rr2Zde9_OGsmXTigvBr7DEWggV" width="30px">
  
