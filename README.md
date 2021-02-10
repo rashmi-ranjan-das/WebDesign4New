@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 [![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebDesign4New&count_private=true&theme=radical&layout=compact)](https://github.com/WebDesign4Newgithub-readme-stats)
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=WebDesign4New&layout=compact)](https://github.com/WebDesign4New/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDesign4New&repo=attendanceproject)](https://github.com/WebDesign4New/attendanceproject)
  
  
