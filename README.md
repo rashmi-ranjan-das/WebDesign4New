@@ -21,11 +21,11 @@ Here are some ideas to get you started:
  👯 I’m looking to collaborate on projects related to Web Development using Django and projects related to Python.📷📷📞📞📞<br>
  
  <div style="text-align: center;">
-   <img src="https://lh6.googleusercontent.com/rU8dZ0x67y63AeujFhM79UG_I3ZagEqTmDffagrUVuBI5eXPHtW2Z7zP1KU1MLKtl0wU5eNS_QHU-9v3GUJgxlKYeAR1yKADY8xCj7xMrpL8z9Rr2Zde9_OGsmXTigvBr7DEWggV" width="30%" height="20%">
+   <img src="https://lh6.googleusercontent.com/rU8dZ0x67y63AeujFhM79UG_I3ZagEqTmDffagrUVuBI5eXPHtW2Z7zP1KU1MLKtl0wU5eNS_QHU-9v3GUJgxlKYeAR1yKADY8xCj7xMrpL8z9Rr2Zde9_OGsmXTigvBr7DEWggV" width="55%" height="40%">
  </div>
  
 <br>
-<img src = "https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif" width="30%" height = "20%">
+<img src = "https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif" width="55%" height="40%">
  
  
  
